@@ -2,15 +2,14 @@ export const siteConfig = {
   name: "Johnathon Bales",
   title: "Electrical Engineering Student",
   description: "Portfolio website of Johnathon Bales",
-  accentColor: "#1d4ed8",
+  accentColor: "#ffca58",
   social: {
     email: "jlbale01@louisville.edu",
     linkedin: "link here plz",
-    twitter: "link here plz",
     github: "link here plz",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
+    "I am a ...., my projects revolve around .... im interested in ....",
   skills: ["stuff here"],
   projects: [
     {
@@ -56,7 +55,7 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "Uofl",
+      school: "University of Louisville",
       degree: "Bachelor of Science in Electrical Engineering",
       dateRange: "2023-2027",
       achievements: [
