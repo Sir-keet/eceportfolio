@@ -37,7 +37,7 @@ export const siteConfig = {
   experience: [
     {
       company: "Cummins Inc.",
-      title: "Co-op Engineer - Electronic Hardware Integration",
+      title: "Co-op Engineer - EHI",
       dateRange: "June 2025 - December 2025",
       bullets: [
         "yuh ma boi",
