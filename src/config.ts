@@ -38,7 +38,7 @@ export const siteConfig = {
     {
       company: "Cummins Inc.",
       title: "Co-op Engineer - Electronic Hardware Integration",
-      dateRange: "June 2025 - Dec 2025",
+      dateRange: "Jun 2025 - Dec 2025",
       bullets: [
         "yuh ma boi",
       ],
