@@ -52,6 +52,14 @@ export const siteConfig = {
         "90% of doctors agree",
       ],
     },
+    {
+      company: "Girls Inc.",
+      title: "Event Volunteer",
+      dateRange: "2025",
+      bullets: [
+        "Led and assisted in teaching STEM concepts to grades K-2",
+      ],
+    },
   ],
   education: [
     {
@@ -63,7 +71,7 @@ export const siteConfig = {
       ],
     },
   ],
-Activities: [
+  activities: [
     {
       activity: "Girls Inc. of Jackson County",
       role: "Event Volunteer",
