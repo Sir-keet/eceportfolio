@@ -5,34 +5,42 @@ export const siteConfig = {
   accentColor: "#ffca58",
   social: {
     email: "jlbale01@louisville.edu",
-    linkedin: "link here plz",
+    linkedin: "www.linkedin.com/in/logan-bales-99883b188",
     github: "link here plz",
   },
   aboutMe:
     "I am a ...., my projects revolve around .... im interested in ....",
-  skills: ["stuff here"],
+  skills: ["PCB Design(KiCAD)","PCB Etching","PCB Repair","Automotive Electronics & Wiring","PTC Creo","Multisim","Amateur Radio","Xilinx Vivado","VHDL/Verilog","Basic Assembly"],
   projects: [
     {
-      name: "name of thang",
+      name: "Keypad PCB",
       description:
         "no clue tbh",
       link: "linky link",
       skills: ["jack shit"],
     },
     {
-      name: "a",
+      name: "PCB Etching",
       description:
         "e",
       link: "i",
       skills: ["o"],
     },
     {
-      name: "u",
+      name: "Car Stereo Wiring Harness",
       description:
         "x",
       link: "y",
       skills: ["z"],
     },
+    {
+      name: "Upgrading Apple IPod",
+      description:
+        "x",
+      link: "y",
+      skills: ["z"],
+    },
+
   ],
   experience: [
     {
@@ -40,16 +48,17 @@ export const siteConfig = {
       title: "Co-op Engineer - Electronic Hardware Integration",
       dateRange: "Jun 2025 - Dec 2025",
       bullets: [
-        "yuh ma boi",
+        "Designed and assisted in manufacturing of 3D printed display mount","Developed and carried out testing of multiple returned electrical relays","Conducted analysis of diesel engines and their electrical components",
       ],
     },
     {
-      company: "Sub shop",
-      title: "employee",
-      dateRange: "Jun 2020 - Dec 2021",
+      company: "Jersey Mikes",
+      title: "Team Member",
+      dateRange: "Jul 2022 - Jun 2023",
       bullets: [
-        "great worker",
-        "90% of doctors agree",
+        "Assisted in training new employees",
+        "Contributed 11 hours to Jersey Mikes Special Olympics fundraiser helping to raise $157,000",
+        "Adhered to all food handling rules and regulations and quickly filled orders",
       ],
     },
     {
@@ -67,24 +76,8 @@ export const siteConfig = {
       degree: "Bachelor of Science in Electrical Engineering",
       dateRange: "2023-2027",
       achievements: [
-        "idk",
+        "OASiS Semiconductor Rapid Cert.",
       ],
     },
   ],
-  activities: [
-    {
-      activity: "Girls Inc. of Jackson County",
-      role: "Event Volunteer",
-      dateRange: "2025",
-      bullets: [
-        "Led and assisted in teaching STEM concepts to grades K-2",
-      ],
-    },
-    {
-      activity: "Old Louisville Brazillian Jiu Jitsu Academy",
-      role: "Student",
-      dateRange: "2024 - 2026",
-    },
-  ],
-
 };
