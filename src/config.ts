@@ -63,4 +63,20 @@ export const siteConfig = {
       ],
     },
   ],
+Activities: [
+    {
+      activity: "Girls Inc. of Jackson County",
+      role: "Event Volunteer",
+      dateRange: "2025",
+      bullets: [
+        "Led and assisted in teaching STEM concepts to grades K-2",
+      ],
+    },
+    {
+      activity: "Old Louisville Brazillian Jiu Jitsu Academy",
+      role: "Student",
+      dateRange: "2024 - 2026",
+    },
+  ],
+
 };
