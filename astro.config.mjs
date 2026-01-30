@@ -7,6 +7,6 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()],
   },
-  site: 'https://kiritaku.github.io/eceportfolio',
+  site: 'https://sir-keet.github.io/eceportfolio',
   base: '/eceportfolio',	
 });
