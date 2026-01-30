@@ -44,6 +44,14 @@ export const siteConfig = {
       skills: ["z"],
       image: "/eceportfolio/ipodback.jpg"
     },
+    {
+      name: "Milled Aluminum Case",
+      description:
+        "x",
+      link: "y",
+      skills: ["z"],
+      image: "/eceportfolio/Case.jpg"
+    },
 
   ],
   experience: [
