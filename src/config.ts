@@ -18,6 +18,7 @@ export const siteConfig = {
         "no clue tbh",
       link: "linky link",
       skills: ["jack shit"],
+      image: "/eceportfolio/PCB.jpg"
     },
     {
       name: "PCB Etching",
@@ -25,6 +26,7 @@ export const siteConfig = {
         "e",
       link: "i",
       skills: ["o"],
+      image: "/eceportfolio/Heartcopper.jpg"
     },
     {
       name: "Car Stereo Wiring Harness",
@@ -32,6 +34,7 @@ export const siteConfig = {
         "x",
       link: "y",
       skills: ["z"],
+      image: "/eceportfolio/HarnessPost.jpg"
     },
     {
       name: "Upgrading Apple IPod",
@@ -39,6 +42,7 @@ export const siteConfig = {
         "x",
       link: "y",
       skills: ["z"],
+      image: "/eceportfolio/ipodback.jpg"
     },
 
   ],
