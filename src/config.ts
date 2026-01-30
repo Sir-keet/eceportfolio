@@ -6,11 +6,11 @@ export const siteConfig = {
   social: {
     email: "jlbale01@louisville.edu",
     linkedin: "www.linkedin.com/in/logan-bales-99883b188",
-    github: "link here plz",
+    github: "https://github.com/Sir-keet",
   },
   aboutMe:
-    "I am a ...., my projects revolve around .... im interested in ....",
-  skills: ["PCB Design(KiCAD)","PCB Etching","PCB Repair","Automotive Electronics & Wiring","PTC Creo","Multisim","Amateur Radio","Xilinx Vivado","VHDL/Verilog","Basic Assembly"],
+    "I'm an Electrical Engineering student at the University of Louisville who loves getting my hands dirty with electronics and automotive projects. Whether I'm etching PCBs, designing keypad circuits, or rebuilding engines, I'm happiest when I'm building something tangible. My goal is to find opportunities that let me grow my technical skills while working on eco friendly solutions—because I believe engineers have a responsibility to create solutions that benefit both people and the planet.",
+  skills: ["PCB Design(KiCAD)","PCB Etching","PCB Repair","Automotive Electronics & Wiring","PTC Creo","Multisim","Amateur Radio","Xilinx Vivado","VHDL/Verilog","Basic Assembly","Brazillian Jiu Jitsu","Film Photography"],
   projects: [
     {
       name: "Keypad PCB",
