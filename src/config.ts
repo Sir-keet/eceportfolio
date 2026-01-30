@@ -15,41 +15,41 @@ export const siteConfig = {
     {
       name: "Keypad PCB",
       description:
-        "no clue tbh",
-      link: "linky link",
-      skills: ["jack shit"],
+        "15 key keypad with oled display and rotary encoder. Designed using KiCAD. Ordered through JLCPCB and assembled by hand. Programmed with QMK.",
+      link: "https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FSir-keet%2FNugMacro-Keypad",
+      skills: ["PCB Design", "PCB Assembly", "PCB Repair"],
       image: "/eceportfolio/PCB.jpg"
     },
     {
       name: "PCB Etching",
       description:
-        "e",
-      link: "i",
-      skills: ["o"],
+        "Light up heart PCB to practice etching and solder mask application. Etched using a muriatic acid and hydrogen peroxide solution.",
+      link: "https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FSir-keet%2FVdaythang%2Ftree%2Fmain%2FVdayThang",
+      skills: ["PCB Design", "PCB Etching", "PCB Fabrication"],
       image: "/eceportfolio/Heartcopper.jpg"
     },
     {
       name: "Car Stereo Wiring Harness",
       description:
-        "x",
-      link: "y",
-      skills: ["z"],
+        "Custom wiring harness to adapt a carplay stereo to the steering wheel controls and amp of an Audi A4. Wires crimped, heatshrinked, and wrapped in tesa tape",
+      link: "https://www.instagram.com/nuga.tory/p/DBNiUB5R1DT/",
+      skills: ["Automotive Wiring & Electronics","Electronics Hand Tools"],
       image: "/eceportfolio/HarnessPost.jpg"
     },
     {
       name: "Upgrading Apple IPod",
       description:
-        "x",
-      link: "y",
-      skills: ["z"],
+        "Apple Ipod 5th gen (Video). Modified to accept a larger battery, Iphone 7 Taptic Engine, and 256GB SD Card. Running Rockbox OS",
+      link: "https://www.instagram.com/nuga.tory/p/DIPiAghRmE6/",
+      skills: ["Component Modification"],
       image: "/eceportfolio/ipodback.jpg"
     },
     {
       name: "Milled Aluminum Case",
       description:
-        "x",
-      link: "y",
-      skills: ["z"],
+        "6061 aluminum keyboard case. Machined using a Bridgeport mill with Accu-Rite Millpwr.",
+      link: "https://www.instagram.com/nuga.tory/p/CeAktqUO4S_/",
+      skills: ["CNC Mill Machining","Anodizing","CAD"],
       image: "/eceportfolio/Case.jpg"
     },
 
